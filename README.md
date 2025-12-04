@@ -1,7 +1,7 @@
 # **Redesign a Notable Information Graphic**  
 In this notebook, I redesigned Charles Minard's map of Napoleon's disastrous Russian campaign of 1812 into an interactive storytelling experience. With this method, it will bring history to life in a captivating way
 
-![Snow](https://s3.amazonaws.com/assets.datacamp.com/production/project_132/img/johnsnow_original.jpg)
+![Snow](https://en.wikipedia.org/wiki/John_Snow#/media/File:Snow-cholera-map-1.jpg)
 
 Due to some limitations when connecting a file from Google Colab to GitHub, please open the file in Colab to see and interact with the output of my project.
 
