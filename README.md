@@ -1,5 +1,5 @@
 # **Redesign a Notable Information Graphic**  
-In this notebook, I redesigned Charles Minard's map of Napoleon's disastrous Russian campaign of 1812 into an interactive storytelling experience. With this method, it will bring history to life in a captivating way
+In this notebook, I redesigned famous John Snow's Cholera Map into an interactive storytelling experience. With this method, it will bring history to life in a captivating way
 
 ![Snow](https://github.com/trangthubach/Visualization_Redesign_Graphic/blob/abacc3c37c8c624bd21934c15cbc4f3e0597c015/Snow.jpg)
 
